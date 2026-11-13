@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/covers/42-ai_toolkit.jpg" alt="ai_toolkit 项目封面" width="100%"></p>
+
 # AiToolkit
 
 轻量全能工具箱 Android/iOS App —— Flutter 跨端，离线可用，APK 体积精简。
